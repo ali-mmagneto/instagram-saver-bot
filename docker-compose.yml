@@ -11,4 +11,4 @@ services:
           max-size: "2m"
           max-file: "10"
     environment:
-      - API_TOKEN=<BOT_TOKEN>
+      - API_TOKEN=<5092336742:AAHZHO9NF9l3601Wov-t-wzeM9OxXxC6kX0>
